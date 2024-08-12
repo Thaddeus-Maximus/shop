@@ -1,0 +1,19 @@
+[{
+  "name": "A water bottle",
+  "price": "200",
+  "sku": "wrt1",
+  "permalink": "https://shop.thadhughes.xyz/2020/wrt1/"
+}
+,{
+  "name": "Asahi Super Dry 6 pack 🍻",
+  "price": "1850",
+  "sku": "asahi6",
+  "permalink": "https://shop.thadhughes.xyz/2020/asahi6/"
+}
+,{
+  "name": "Water bottles",
+  "price": "1020",
+  "sku": "wrt6",
+  "permalink": "https://shop.thadhughes.xyz/2020/wrt6/"
+}
+]

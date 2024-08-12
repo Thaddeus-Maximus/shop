@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on shopfront</title>
+    <link>https://shop.thadhughes.xyz/</link>
+    <description>Recent content in Home on shopfront</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 16 Aug 2020 08:21:04 +0800</lastBuildDate><atom:link href="https://shop.thadhughes.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A water bottle</title>
+      <link>https://shop.thadhughes.xyz/2020/wrt1/</link>
+      <pubDate>Sun, 16 Aug 2020 08:21:04 +0800</pubDate>
+      
+      <guid>https://shop.thadhughes.xyz/2020/wrt1/</guid>
+      <description>Filtered and bottled water.</description>
+    </item>
+    
+    <item>
+      <title>Asahi Super Dry 6 pack 🍻</title>
+      <link>https://shop.thadhughes.xyz/2020/asahi6/</link>
+      <pubDate>Sun, 16 Aug 2020 08:21:04 +0800</pubDate>
+      
+      <guid>https://shop.thadhughes.xyz/2020/asahi6/</guid>
+      <description>Nice beer 👍</description>
+    </item>
+    
+    <item>
+      <title>Water bottles</title>
+      <link>https://shop.thadhughes.xyz/2020/wrt6/</link>
+      <pubDate>Sun, 16 Aug 2020 08:21:04 +0800</pubDate>
+      
+      <guid>https://shop.thadhughes.xyz/2020/wrt6/</guid>
+      <description>Filtered and bottled water.</description>
+    </item>
+    
+    <item>
+      <title>Great success</title>
+      <link>https://shop.thadhughes.xyz/stripe/success/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shop.thadhughes.xyz/stripe/success/</guid>
+      <description>Thank you for purchasing, you will receive an email confirming the order.</description>
+    </item>
+    
+    <item>
+      <title>Payment failure</title>
+      <link>https://shop.thadhughes.xyz/stripe/cancel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shop.thadhughes.xyz/stripe/cancel/</guid>
+      <description>Please contact us, so we can investigate the issue.</description>
+    </item>
+    
+  </channel>
+</rss>
