@@ -1,0 +1,12 @@
+title = "shopfront"
+pluralizelisttitles = false
+# baseURL is needed for successUrl/cancelUrl redirection from Stripe
+baseURL = "https://shop.thadhughes.xyz"
+[params]
+	email = "hughes.thad@gmail.com"
+	currency = "USD" # ISO 4217
+	stripe = "pk_test_51PITkXK8ZtNpNqFpYRMxQ1GztvJspk1DzRC8LOVvN36DhGvnfupEo5j8W1wA12P6bKBF7OzPHWugmiURxoVF4GAt00yQbBcLMc"
+[taxonomies]
+	category = "categories"
+	vendor = "vendors"
+	tag = "tags"
