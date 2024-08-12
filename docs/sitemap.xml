@@ -2,13 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://shop.thadhughes.xyz/2020/</loc>
+    <loc>https://shop.thadhughes.xyz/products/wrt1/</loc>
     <lastmod>2020-08-16T08:21:04+08:00</lastmod>
   </url><url>
-    <loc>https://shop.thadhughes.xyz/2020/wrt1/</loc>
-    <lastmod>2020-08-16T08:21:04+08:00</lastmod>
-  </url><url>
-    <loc>https://shop.thadhughes.xyz/2020/asahi6/</loc>
+    <loc>https://shop.thadhughes.xyz/products/asahi6/</loc>
     <lastmod>2020-08-16T08:21:04+08:00</lastmod>
   </url><url>
     <loc>https://shop.thadhughes.xyz/tags/bottle/</loc>
@@ -26,6 +23,9 @@
     <loc>https://shop.thadhughes.xyz/tags/pack/</loc>
     <lastmod>2020-08-16T08:21:04+08:00</lastmod>
   </url><url>
+    <loc>https://shop.thadhughes.xyz/products/</loc>
+    <lastmod>2020-08-16T08:21:04+08:00</lastmod>
+  </url><url>
     <loc>https://shop.thadhughes.xyz/tags/single/</loc>
     <lastmod>2020-08-16T08:21:04+08:00</lastmod>
   </url><url>
@@ -35,7 +35,7 @@
     <loc>https://shop.thadhughes.xyz/categories/water/</loc>
     <lastmod>2020-08-16T08:21:04+08:00</lastmod>
   </url><url>
-    <loc>https://shop.thadhughes.xyz/2020/wrt6/</loc>
+    <loc>https://shop.thadhughes.xyz/products/wrt6/</loc>
     <lastmod>2020-08-16T08:21:04+08:00</lastmod>
   </url><url>
     <loc>https://shop.thadhughes.xyz/stripe/success/</loc>
