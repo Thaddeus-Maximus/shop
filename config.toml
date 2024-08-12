@@ -2,6 +2,10 @@ title = "shopfront"
 pluralizelisttitles = false
 # baseURL is needed for successUrl/cancelUrl redirection from Stripe
 baseURL = "https://shop.thadhughes.xyz"
+
+publishDir = 'docs'
+
+
 [params]
 	email = "hughes.thad@gmail.com"
 	currency = "USD" # ISO 4217
@@ -10,3 +14,4 @@ baseURL = "https://shop.thadhughes.xyz"
 	category = "categories"
 	vendor = "vendors"
 	tag = "tags"
+
